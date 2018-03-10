@@ -1,0 +1,6 @@
+cfg_local.py
+*.pyc
+__pycache__
+.vscode
+*.ttf
+venv
