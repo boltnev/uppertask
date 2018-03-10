@@ -26,6 +26,7 @@ else:
     screen = pygame.display.set_mode((480,320))
 
 screen.fill(GREEN)
+pygame.mouse.set_visible(False)
 pygame.display.update()
 
 font = pygame.font.Font(cfg.FONT, 36)
